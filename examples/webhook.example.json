@@ -1,0 +1,17 @@
+{
+  "uid": "xauusd-30m-20260716-001",
+  "time": "2026-07-16T02:30:00Z",
+  "symbol": "XAUUSD",
+  "side": "buy",
+  "timeframe": "30m",
+  "strategy": "private_strategy",
+  "regime": "momentum",
+  "preset": "aggressive",
+  "order_type": "market",
+  "volume": 0.01,
+  "price": 4075.0,
+  "sl": 4058.0,
+  "tp": 4110.0,
+  "risk_pct": 0.5,
+  "rr": 2.0
+}
